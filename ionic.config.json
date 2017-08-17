@@ -2,5 +2,7 @@
   "name": "raj_hack",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
